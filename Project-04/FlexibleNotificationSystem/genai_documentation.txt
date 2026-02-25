@@ -1,0 +1,20 @@
+Queries used:
+- "Overview of public vs private classes"
+- "Why is this not working [screenshot]"
+- "Why is my java file giving errors in terminal" (hint I cant spell) 
+- "Based on provided rubric what did I miss"
+    week 5 - 
+    - "Verify that my classes created/used are correct"
+    - "Is this where the addition to my class should be"
+    - "Why am I generating an error in my class"
+    - "Where is the missing semi-colon"
+Refinements:
+- Asked for help with debugging when errors were occurring 
+- Provided screenshots to help clean up code and fix errors 
+- AI helped me to fix file names, and include imports 
+- AI helped to ensure that I met all rubric requirements 
+    week 5 - 
+    - I verified that the class and implementations within those classes were where they belong
+    - I checked and changed where I placed the additional WhatsApp aspect of my AlertSystem class (I had doubles of code accidentially) 
+    - Provided insight onto why the errors were occurring
+    - Helped me to ensure that all punctionaion and formatting was correct to ensure functionality within program
